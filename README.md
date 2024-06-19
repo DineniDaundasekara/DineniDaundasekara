@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Java programming, Kotlin, MERN stack,Java Script**
 
-- 👯 I’m looking to collaborate on **3D Gaming project By Java**
-
-- 💬 Ask me about **HTML CSS PHP**
-
 - 📫 How to reach me **daundasekaradineni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
