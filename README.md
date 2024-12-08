@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dineni</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 ---
-- 🔭 I’m currently stdying on **SLIIT**
+- 🔭 I’m currently studying on **SLIIT**
 
 - 🌱 I’m currently learning **Java programming, Kotlin, MERN stack,Java Script,Flutter**
 
