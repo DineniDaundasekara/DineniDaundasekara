@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently stdying on **SLIIT**
 
-- 🌱 I’m currently learning **Java programming, Kotlin, MERN stack,Java Script**
+- 🌱 I’m currently learning **Java programming, Kotlin, MERN stack,Java Script,Flutter**
 
 - 📫 How to reach me **daundasekaradineni@gmail.com**
 
