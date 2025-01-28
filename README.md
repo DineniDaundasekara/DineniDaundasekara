@@ -17,7 +17,7 @@
   
 [![Dineni's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DineniDaundasekara&theme=tokyonight)](https://git.io/praveenscience)
 
-|#![Dineni's github stats](https://github-readme-stats.vercel.app/api?username=DineniDaundasekara&show_icons=true&theme=tokyonight) | ![Dineni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DineniDaundasekara&theme=tokyonight) |
+| | ![Dineni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DineniDaundasekara&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineniDaundasekara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DineniDaundasekara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
